@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64b639ef174a24fd99c66fa4"
+  },
+  "title": "Bohemian Rhapsody",
+  "artist": "Queen",
+  "album": "A Night at the Opera"
+},
+{
+  "_id": {
+    "$oid": "64b639ef174a24fd99c66fa5"
+  },
+  "title": "Imagine",
+  "artist": "John Lennon",
+  "album": "Imagine"
+},
+{
+  "_id": {
+    "$oid": "64b639ef174a24fd99c66fa6"
+  },
+  "title": "Hotel California",
+  "artist": "Eagles",
+  "album": "Hotel California"
+},
+{
+  "_id": {
+    "$oid": "64b639ef174a24fd99c66fa7"
+  },
+  "title": "Di Seberang Sana",
+  "artist": "Pusakata",
+  "album": "Mesin Waktu 2020"
+},
+{
+  "_id": {
+    "$oid": "64b6454e0b5bcd6ec3eb621f"
+  },
+  "title": "Ruang Tunggu",
+  "artist": "Pusakata",
+  "album": "Mesin Waktu 2020"
+},
+{
+  "_id": {
+    "$oid": "64b6454e0b5bcd6ec3eb6220"
+  },
+  "title": "Dan",
+  "artist": "Sheila on 7",
+  "album": "Sheila on 7"
+},
+{
+  "_id": {
+    "$oid": "64b6454e0b5bcd6ec3eb6221"
+  },
+  "title": "Amazing",
+  "artist": "Rex Orange County",
+  "albim": "Who Cares"
+},
+{
+  "_id": {
+    "$oid": "64b6454e0b5bcd6ec3eb6222"
+  },
+  "title": "When I Was Your Man",
+  "artist": "Bruno Mars",
+  "album": "Unorthodox Jukebox"
+},
+{
+  "_id": {
+    "$oid": "64b6454e0b5bcd6ec3eb6223"
+  },
+  "title": "Teman Perjalanan",
+  "artist": "Ardhito Pramono",
+  "album": "Teman Perjalanan"
+},
+{
+  "_id": {
+    "$oid": "64b6454e0b5bcd6ec3eb6224"
+  },
+  "title": "Lose Yourself",
+  "artist": "eminem",
+  "album": "8 Mile"
+}]

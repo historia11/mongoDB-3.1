@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64b6529c0b5bcd6ec3eb623a"
+  },
+  "title": "Bohemian Rhapsody",
+  "plays": 1000000,
+  "period_of_time": "2023-01-01 to 2023-12-31"
+},
+{
+  "_id": {
+    "$oid": "64b6529c0b5bcd6ec3eb623b"
+  },
+  "title": "Imagine",
+  "plays": 950000,
+  "period_of_time": "2023-01-01 to 2023-12-31"
+},
+{
+  "_id": {
+    "$oid": "64b6529c0b5bcd6ec3eb623c"
+  },
+  "title": "Hotel California",
+  "plays": 900000,
+  "period_of_time": "2023-01-01 to 2023-12-31"
+},
+{
+  "_id": {
+    "$oid": "64b6529c0b5bcd6ec3eb623d"
+  },
+  "title": "Kangen",
+  "plays": 800000,
+  "period_of_time": "2023-01-01 to 2023-12-31"
+},
+{
+  "_id": {
+    "$oid": "64b6529c0b5bcd6ec3eb623e"
+  },
+  "title": "Bad Guy",
+  "plays": 1100000,
+  "period_of_time": "2023-01-01 to 2023-12-31"
+},
+{
+  "_id": {
+    "$oid": "64b6529c0b5bcd6ec3eb623f"
+  },
+  "title": "Dynamite",
+  "plays": 1000000,
+  "period_of_time": "2023-01-01 to 2023-12-31\n"
+},
+{
+  "_id": {
+    "$oid": "64b6529c0b5bcd6ec3eb6240"
+  },
+  "title": "Pelangi di Matamu",
+  "plays": 650000,
+  "period_of_time": "2023-01-01 to 2023-12-31"
+},
+{
+  "_id": {
+    "$oid": "64b6529c0b5bcd6ec3eb6241"
+  },
+  "title": "Pergi Pagi Pulang Pagi",
+  "plays": 600000,
+  "period_of_time": "2023-01-01 to 2023-12-31"
+},
+{
+  "_id": {
+    "$oid": "64b6529c0b5bcd6ec3eb6242"
+  },
+  "title": "Aku Lelakimu",
+  "plays": 550000,
+  "period_of_time": "2023-01-01 to 2023-12-31"
+},
+{
+  "_id": {
+    "$oid": "64b6529c0b5bcd6ec3eb6243"
+  },
+  "title": "Seperti Yang Kau Minta",
+  "plays": 500000,
+  "period_of_time": "2023-01-01 to 2023-12-31"
+}]
