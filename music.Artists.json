@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "64b64d980b5bcd6ec3eb6230"
+  },
+  "name": "Ed Sheeran",
+  "date_of_birth": {
+    "$date": "1991-02-17T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop",
+    "Folk Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b64d980b5bcd6ec3eb6231"
+  },
+  "name": "Billie Eilish",
+  "date_of_birth": {
+    "$date": "2001-12-18T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop",
+    "Alternative"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b64d980b5bcd6ec3eb6232"
+  },
+  "name": "BTS",
+  "date_of_birth": {
+    "$date": "2013-06-13T00:00:00.000Z"
+  },
+  "genres": [
+    "K-pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b64d980b5bcd6ec3eb6233"
+  },
+  "name": "Taylor Swift",
+  "date_of_birth": {
+    "$date": "1989-12-13T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop",
+    "Country"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b64d980b5bcd6ec3eb6234"
+  },
+  "name": "Dua Lipa",
+  "date_of_birth": {
+    "$date": "1995-08-22T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop",
+    "Dance"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b64d980b5bcd6ec3eb6235"
+  },
+  "name": "Fiersa Besari",
+  "date_of_birth": {
+    "$date": "1985-03-03T00:00:00.000Z"
+  },
+  "genres": [
+    "pop",
+    "folk"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b64d980b5bcd6ec3eb6236"
+  },
+  "name": "Afgansyah Reza",
+  "date_of_birth": {
+    "$date": "1989-05-27T00:00:00.000Z"
+  },
+  "genres": [
+    "pop",
+    "RnB",
+    "soul",
+    "jazz"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b64d980b5bcd6ec3eb6237"
+  },
+  "title": "Danilla",
+  "date_of_birth": {
+    "$date": "1990-02-12T00:00:00.000Z"
+  },
+  "genres": "pop, indie"
+},
+{
+  "_id": {
+    "$oid": "64b6510b0b5bcd6ec3eb6238"
+  },
+  "title": "dere",
+  "date_of_birth": {
+    "$date": "2002-06-01T00:00:00.000Z"
+  },
+  "genre": "pop"
+},
+{
+  "_id": {
+    "$oid": "64b6510b0b5bcd6ec3eb6239"
+  },
+  "title": "Rex Orange County",
+  "date_of_birth": {
+    "$date": "1998-05-04T00:00:00.000Z"
+  },
+  "genres": [
+    "pop",
+    "indie",
+    "hip-hop",
+    " soul"
+  ]
+}]
